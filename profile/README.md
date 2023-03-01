@@ -5,3 +5,4 @@ Virittämö Helsinki on ammattilaisten innovatiivinen työyhteisö, joka tarjoaa
 Hyödyllisiä linkkejä:
 * https://virittamohelsinki.fi
 * https://github.com/LeDuble/Git-Etiquette
+* https://github.com/LeDuble/Git-Etiquette-Template/generate
