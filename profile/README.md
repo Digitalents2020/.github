@@ -7,4 +7,4 @@ Hyödyllisiä linkkejä:
 * Projektin- ja versionhallinnan käytänteitä, joita käytämme ohjelmistotuotannossamme, löytyvät seuraavilta sivuilta:
   * https://github.com/LeDuble/Git-Etiquette - Dokumentaatio
   * https://github.com/LeDuble/Git-Etiquette-Template - Uusille alkaville projekteille käytettävä repositorio pohja
-  * https://github.com/LeDuble/Git-Etiquette-Template-Quick-Setup - Vanhoille/uusille projekteille käytettävä asennusohjelma
+  * https://github.com/LeDuble/Git-Etiquette-Quick-Setup - Vanhoille/uusille projekteille käytettävä asennusohjelma
